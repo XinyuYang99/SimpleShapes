@@ -1,13 +1,13 @@
-## Hello World for P5.js
-#### by Scott Kildall
-January 28, 2021
+## Simple Shapes for P5.js
+#### by Xinyu Yang
+Feburary 3, 2021
 
 
 
 ### Overview
-Simple Hello World text display.
+Simple shapes to display.
 
 
 ### Technical Details
 
-Modify the sketch.js setup() and draw() are used only
+Modify the sketch.js setup() and draw() and others are used to draw shapes
